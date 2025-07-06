@@ -44,11 +44,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jonhuber/skiptask"
-Repository = "https://github.com/jonhuber/skiptask"
-Issues = "https://github.com/jonhuber/skiptask/issues"
-Documentation = "https://github.com/jonhuber/skiptask#readme"
-Changelog = "https://github.com/jonhuber/skiptask/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/jonhuber/django-skiptask"
+Repository = "https://github.com/jonhuber/django-skiptask"
+Issues = "https://github.com/jonhuber/django-skiptask/issues"
+Documentation = "https://github.com/jonhuber/django-skiptask#readme"
+Changelog = "https://github.com/jonhuber/django-skiptask/blob/main/CHANGELOG.md"
 
 [tool.pytest.ini_options]
 DJANGO_SETTINGS_MODULE = "tests.settings"
