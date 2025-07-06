@@ -8,7 +8,7 @@ version = "0.1.0"
 authors = [
   { name="Jon Huber", email="jon@jonhuber.com" },
 ]
-description = "A Django-based distributed task queue with PostgreSQL advisory locks"
+description = "A Django app for database backed task queue system that uses `SKIP LOCKED`."
 readme = "README.md"
 requires-python = ">=3.9"
 keywords = ["django", "task-queue", "background-jobs"]

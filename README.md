@@ -1,6 +1,6 @@
 # Django Skiptask
 
-A database backed task queue system that `SKIP LOCKED`.
+A Django app for database backed task queue system that uses `SKIP LOCKED`.
 
 ## Installation
 
